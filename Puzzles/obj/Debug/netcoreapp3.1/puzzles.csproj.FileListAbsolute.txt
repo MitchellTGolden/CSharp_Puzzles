@@ -1,0 +1,13 @@
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\puzzles\bin\Debug\netcoreapp3.1\puzzles.exe
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\puzzles\bin\Debug\netcoreapp3.1\puzzles.deps.json
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\puzzles\bin\Debug\netcoreapp3.1\puzzles.runtimeconfig.json
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\puzzles\bin\Debug\netcoreapp3.1\puzzles.runtimeconfig.dev.json
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\puzzles\bin\Debug\netcoreapp3.1\puzzles.dll
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\puzzles\bin\Debug\netcoreapp3.1\puzzles.pdb
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\puzzles\obj\Debug\netcoreapp3.1\puzzles.csprojAssemblyReference.cache
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\puzzles\obj\Debug\netcoreapp3.1\puzzles.AssemblyInfoInputs.cache
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\puzzles\obj\Debug\netcoreapp3.1\puzzles.AssemblyInfo.cs
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\puzzles\obj\Debug\netcoreapp3.1\puzzles.csproj.CoreCompileInputs.cache
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\puzzles\obj\Debug\netcoreapp3.1\puzzles.dll
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\puzzles\obj\Debug\netcoreapp3.1\puzzles.pdb
+C:\Users\Mitchell\Desktop\Coding_Dojo\C#\puzzles\obj\Debug\netcoreapp3.1\puzzles.genruntimeconfig.cache
